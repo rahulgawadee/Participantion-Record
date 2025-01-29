@@ -1,0 +1,17 @@
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{0}: reset: moving to origin/main
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{2}: checkout: moving from backup-main to main
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{3}: reset: moving to origin/main
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{4}: reset: moving to 01c0c23
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{5}: reset: moving to HEAD
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{6}: reset: moving to origin/main
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{7}: reset: moving to HEAD
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{8}: checkout: moving from main to backup-main
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{9}: checkout: moving from backup-main to main
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{10}: reset: moving to origin/main
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{11}: checkout: moving from main to backup-main
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{12}: pull origin main --rebase (finish): returning to refs/heads/main
+[33m01c0c23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mbackup-main[m[33m)[m HEAD@{13}: pull origin main --rebase (start): checkout 01c0c23be87841dbf46be712cd4dfea0ba35ebed
+[33m1dd27f0[m HEAD@{14}: Branch: renamed refs/heads/main to refs/heads/main
+[33m1dd27f0[m HEAD@{16}: Branch: renamed refs/heads/main to refs/heads/main
+[33m1dd27f0[m HEAD@{18}: commit (initial): first commit
